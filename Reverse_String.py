@@ -38,12 +38,3 @@ class Solution:
             s[i], s[-i-1] = s[-i-1], s[i]
         
     
-
-
-Runtime: 220 ms
-Memory Usage: 18.3 MB
-
-
-
-Runtime: 220 ms
-Memory Usage: 18.4 MB
